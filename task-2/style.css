@@ -1,0 +1,17 @@
+.up{
+    display: inline-flex;
+}
+
+.country{
+    display: inline-flex;
+}
+
+#text-box{
+    background-color: whitesmoke;
+    text-align: center;
+}
+  
+#text-box h1{
+    font-size: 40px;
+    text-align: center;
+}

@@ -1,0 +1,65 @@
+.btn{
+    background-color:#c63928;
+    padding: 7px 30px;
+    margin:20px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: #c63928;
+    color: #ffffff;
+    
+    
+}
+
+.start{
+    background-color: #fcd835;
+    border-color:#3063f5 ;
+    padding: 7px 30px;
+    margin:20px;
+}
+
+.start:hover{
+    cursor: pointer;
+    background-color:rgb(30, 121, 240);
+    color: #f7b332;
+}
+.login{
+    border-radius: 20px;
+    background-color:#86d2a5;
+    color: white;
+    padding: 7px 30px;
+    margin:20px;
+}
+.login:hover{
+    cursor: pointer;
+   
+}
+.signup{
+    padding: 7px 30px;
+    border-radius: 6px;
+    border-color: darkblue;
+    color: darkblue;
+    background-color: #ffffff;
+    margin:20px;
+}
+.signup:hover{
+    background-color: #f7b332;
+    color: #ffffff;
+
+  }  
+
+.sub{
+    background-color: #f7b332;
+    color: white;
+    padding: 7px 30px;
+    border-radius: 6px;
+     margin:20px;
+}
+ div{
+     margin-top: 300px;
+     margin-left: 300px;
+
+ }
+ img:hover{
+     cursor: pointer;
+ }

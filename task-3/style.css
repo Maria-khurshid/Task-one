@@ -1,0 +1,23 @@
+#relative{
+    background-color: rgb(81, 211, 168);
+    margin: 0%;
+    padding: 0%;
+}
+
+.look{
+    background-color: rgb(157, 243, 221);
+    padding: 200px;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 80px;
+    margin-top: 80px;
+    
+}
+.look input{
+    padding: 6px 30px;
+    margin: auto;
+}
+.btn{
+    padding: 7px 30px;
+    background-color: rgb(81, 211, 168);
+}
